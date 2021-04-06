@@ -1,0 +1,10 @@
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\bin\Debug\RutaRobotLaberinto.exe.config
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\bin\Debug\RutaRobotLaberinto.exe
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\bin\Debug\RutaRobotLaberinto.pdb
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.csprojResolveAssemblyReference.cache
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.Form1.resources
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.Properties.Resources.resources
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.csproj.GenerateResource.Cache
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.csproj.CoreCompileInputs.cache
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.exe
+C:\Users\JARP-Laptop\source\repos\FinalFInalFInalMicrosII\RutaRobotLaberinto\obj\Debug\RutaRobotLaberinto.pdb
